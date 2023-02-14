@@ -43,6 +43,10 @@ img{
     padding: 20px;
 }
 
+.subtitle__text{
+    margin: 20px;
+    font-size: 25px;
+}
 
 .block{
     display: flex;
